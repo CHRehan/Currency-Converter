@@ -1,4 +1,4 @@
-##PayPay Mobile App Developer Challenge
+# PayPay Mobile App Developer Challenge
 
 Currency Conversion App that allows a user to view & exchange rates for any given currency
 <img align="right"  src="/demo.gif" width="250"/>
